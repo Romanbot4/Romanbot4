@@ -77,6 +77,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-2b2f36?style=for-the-badge&logo=adobephotoshop&logoColor=8f98a0)
 
+<!--
 **Also in my toolbox** — Clean Architecture · DDD · SOLID · TDD · realtime WebSockets & SignalR · Myanmar payment gateways (KBZPay, WavePay, 2C2P, TrueMoney) · App Store & Play Console releases
 
 ---
@@ -195,7 +196,7 @@ A polished expense manager with Firebase auth and storage, statistics and budget
 - Shipped multiple Flutter apps to the Play Store and App Store, including Quick Food, Quick Food Rider and GG Luck.
 - Led technical interviews and mentored 3+ junior Flutter developers on architecture best practices.
 
----
+--- -->
 
 ## Let's Connect
 
