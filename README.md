@@ -14,7 +14,7 @@
 
 </div>
 
----
+<!-- ---
 
 ## About
 
@@ -22,7 +22,7 @@
 - I built **MyanmarGoal** — a realtime football livescore platform (app, web CMS, backend) — from scratch and shipped it to production.
 - I work across the whole stack: **Flutter** on mobile, **React / Next.js** on web, **.NET** on the backend, and **Figma** for the design that ties it together.
 - I care about Clean Architecture, DDD, SOLID and TDD — and equally about pixel-perfect UI. Good products need both.
-- Writing code since 2018. Based in **Yangon, Myanmar** 🇲🇲
+- Writing code since 2018. Based in **Yangon, Myanmar** 🇲🇲 -->
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 </div>
 
----
+<!-- --- -->
 
 ## Tech Stack
 
